@@ -7,27 +7,27 @@
         "quantity": 0,
         "mrpPrice": 100,
         "offerPrice": 50,
-        "url": "",
+        "url": "require('./images/BISCUITS.jpg')",
         "offer": "18% OFF"
       },
       {
-        "id": 1,
+        "id": 2,
         "brandName": "Milk Food",
         "productName": "Milk food Rich Desi Danedar Ghee",
         "quantity": 0,
         "mrpPrice": 100,
         "offerPrice": 50,
-        "url": "",
+        "url": "require('./images/BISCUITS.jpg')",
         "offer": "18% OFF"
       },
       {
-        "id": 1,
+        "id": 3,
         "brandName": "Milk Food",
         "productName": "Milk food Rich Desi Danedar Ghee",
         "quantity": 0,
         "mrpPrice": 100,
         "offerPrice": 50,
-        "url": "",
+        "url": "require('./images/BISCUITS.jpg')",
         "offer": "18% OFF"
       }
     ]
