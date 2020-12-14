@@ -8,7 +8,7 @@
         "mrpPrice": 100,
         "offerPrice": 80,
         "url": "https://sharonkumarmk.github.io/apidemo/images/BISCUITS.jpg",
-        "offer": "18% OFF"
+        "offer": "20% OFF"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "mrpPrice": 20,
         "offerPrice": 18,
         "url": "https://sharonkumarmk.github.io/apidemo/images/CHILLI POWDER.jpg",
-        "offer": "18% OFF"
+        "offer": "10% OFF"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "mrpPrice": 90,
         "offerPrice": 88,
         "url": "https://sharonkumarmk.github.io/apidemo/images/DETTOL.jpg",
-        "offer": "18% OFF"
+        "offer": "2% OFF"
       },
       {
         "id": 4,
@@ -38,7 +38,7 @@
         "mrpPrice": 90,
         "offerPrice": 85,
         "url": "https://sharonkumarmk.github.io/apidemo/images/HAND SANT.jpg",
-        "offer": "18% OFF"
+        "offer": "5% OFF"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "mrpPrice": 20,
         "offerPrice": 18,
         "url": "https://sharonkumarmk.github.io/apidemo/images/MILK.jpg",
-        "offer": "18% OFF"
+        "offer": "2% OFF"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "mrpPrice": 100,
         "offerPrice": 88,
         "url": "https://sharonkumarmk.github.io/apidemo/images/PERFUME.jpg",
-        "offer": "18% OFF"
+        "offer": "20% OFF"
       },
       {
         "id": 7,
@@ -68,7 +68,7 @@
         "mrpPrice": 90,
         "offerPrice": 88,
         "url": "https://sharonkumarmk.github.io/apidemo/images/SHAMPOO.jpg",
-        "offer": "18% OFF"
+        "offer": "6% OFF"
       },
       {
         "id": 8,
@@ -78,7 +78,7 @@
         "mrpPrice": 50,
         "offerPrice": 45,
         "url": "https://sharonkumarmk.github.io/apidemo/images/SOAP.jpg",
-        "offer": "18% OFF"
+        "offer": "10% OFF"
       },
       {
         "id": 9,
@@ -88,7 +88,7 @@
         "mrpPrice": 90,
         "offerPrice": 88,
         "url": "https://sharonkumarmk.github.io/apidemo/images/SWEETS.jpg",
-        "offer": "18% OFF"
+        "offer": "2% OFF"
       },
       {
         "id": 3,
@@ -98,7 +98,7 @@
         "mrpPrice": 150,
         "offerPrice": 100,
         "url": "https://sharonkumarmk.github.io/apidemo/images/WASHING POWDER.jpg",
-        "offer": "18% OFF"
+        "offer": "3% OFF"
       }
     ]
   }
