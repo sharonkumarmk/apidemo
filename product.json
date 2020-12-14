@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "brandName": "Milk Food",
+        "productName": "Milk food Rich Desi Danedar Ghee",
+        "quantity": 0,
+        "mrpPrice": 100,
+        "offerPrice": 50,
+        "url": "",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 1,
+        "brandName": "Milk Food",
+        "productName": "Milk food Rich Desi Danedar Ghee",
+        "quantity": 0,
+        "mrpPrice": 100,
+        "offerPrice": 50,
+        "url": "",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 1,
+        "brandName": "Milk Food",
+        "productName": "Milk food Rich Desi Danedar Ghee",
+        "quantity": 0,
+        "mrpPrice": 100,
+        "offerPrice": 50,
+        "url": "",
+        "offer": "18% OFF"
+      }
+    ]
+  }
