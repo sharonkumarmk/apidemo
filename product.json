@@ -2,32 +2,102 @@
     "products": [
       {
         "id": 1,
-        "brandName": "Milk Food",
-        "productName": "Milk food Rich Desi Danedar Ghee",
+        "brandName": "Oreo",
+        "productName": "Oreo Milky biscuit",
         "quantity": 0,
         "mrpPrice": 100,
-        "offerPrice": 50,
+        "offerPrice": 80,
         "url": "https://sharonkumarmk.github.io/apidemo/images/BISCUITS.jpg",
         "offer": "18% OFF"
       },
       {
         "id": 2,
-        "brandName": "Milk Food",
-        "productName": "Milk food Rich Desi Danedar Ghee",
+        "brandName": "Priyam",
+        "productName": "Priyam Chili powder",
         "quantity": 0,
-        "mrpPrice": 100,
-        "offerPrice": 50,
-        "url": "https://sharonkumarmk.github.io/apidemo/images/BISCUITS.jpg",
+        "mrpPrice": 20,
+        "offerPrice": 18,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/CHILLI POWDER.jpg",
         "offer": "18% OFF"
       },
       {
         "id": 3,
-        "brandName": "Milk Food",
-        "productName": "Milk food Rich Desi Danedar Ghee",
+        "brandName": "Dettol",
+        "productName": "Dettol Antiseptic Lotion",
+        "quantity": 0,
+        "mrpPrice": 90,
+        "offerPrice": 88,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/DETTOL.jpg",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 4,
+        "brandName": "Savlon",
+        "productName": "Savlon Hand Sanitizer",
+        "quantity": 0,
+        "mrpPrice": 90,
+        "offerPrice": 85,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/HAND SANT.jpg",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 5,
+        "brandName": "Hertiage",
+        "productName": "Fitness Milk",
+        "quantity": 0,
+        "mrpPrice": 20,
+        "offerPrice": 18,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/MILK.jpg",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 6,
+        "brandName": "Wild Stone",
+        "productName": "Wild Stone Strong Perfume",
         "quantity": 0,
         "mrpPrice": 100,
-        "offerPrice": 50,
-        "url": "https://sharonkumarmk.github.io/apidemo/images/BISCUITS.jpg",
+        "offerPrice": 88,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/PERFUME.jpg",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 7,
+        "brandName": "Dove",
+        "productName": "Dove Shampoo",
+        "quantity": 0,
+        "mrpPrice": 90,
+        "offerPrice": 88,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/SHAMPOO.jpg",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 8,
+        "brandName": "Dettol",
+        "productName": "Dettol Skin Care Soap",
+        "quantity": 0,
+        "mrpPrice": 50,
+        "offerPrice": 45,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/SOAP.jpg",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 9,
+        "brandName": "Cadbury",
+        "productName": "Cadbury Dairy Milk Choclate",
+        "quantity": 0,
+        "mrpPrice": 90,
+        "offerPrice": 88,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/SWEETS.jpg",
+        "offer": "18% OFF"
+      },
+      {
+        "id": 3,
+        "brandName": "Tide",
+        "productName": "Tide Detergent",
+        "quantity": 0,
+        "mrpPrice": 150,
+        "offerPrice": 100,
+        "url": "https://sharonkumarmk.github.io/apidemo/images/WASHING POWDER.jpg",
         "offer": "18% OFF"
       }
     ]
