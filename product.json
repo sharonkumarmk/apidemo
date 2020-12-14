@@ -7,7 +7,7 @@
         "quantity": 0,
         "mrpPrice": 100,
         "offerPrice": 50,
-        "url": "require('./images/BISCUITS.jpg')",
+        "url": "https://sharonkumarmk.github.io/apidemo/images/BISCUITS.jpg",
         "offer": "18% OFF"
       },
       {
@@ -17,7 +17,7 @@
         "quantity": 0,
         "mrpPrice": 100,
         "offerPrice": 50,
-        "url": "require('./images/BISCUITS.jpg')",
+        "url": "https://sharonkumarmk.github.io/apidemo/images/BISCUITS.jpg",
         "offer": "18% OFF"
       },
       {
@@ -27,7 +27,7 @@
         "quantity": 0,
         "mrpPrice": 100,
         "offerPrice": 50,
-        "url": "require('./images/BISCUITS.jpg')",
+        "url": "https://sharonkumarmk.github.io/apidemo/images/BISCUITS.jpg",
         "offer": "18% OFF"
       }
     ]
